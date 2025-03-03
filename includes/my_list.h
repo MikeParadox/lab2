@@ -12,7 +12,7 @@ template<typename T> class MyList
     struct Node;
 
 public:
-    using value_type = T;
+    using value_type = T; 
     using size_type = size_t;
     using difference_type = ptrdiff_t;
     using pointer = value_type*;
