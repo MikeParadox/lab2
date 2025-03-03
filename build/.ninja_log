@@ -1,0 +1,9 @@
+# ninja log v5
+2	26	1740573602088112008	ListTests/CMakeFiles/list_tests.dir/ListTests.cpp.o	8c24bfdde4ea905e
+618	662	1740605740168155362	main	2749d03a7d5a2c29
+5	915	1740605740417155369	ListTests/CMakeFiles/list_tests.dir/ListGTests.cpp.o	f6aca5daf4f682b8
+2	76	1740631567883348009	build.ninja	8d09be272a4355f7
+5	618	1740605740121155361	List/CMakeFiles/main.dir/main.cpp.o	5dfe69c4f35ee66
+915	994	1740605740500155371	list_tests	45d6733bcd178ed8
+915	994	1740605740500155371	ListTests/list_tests[1]_tests.cmake	45d6733bcd178ed8
+915	994	1740605740500155371	/home/mikhail/programming/cs/dsa/labs/Lab-02/build/ListTests/list_tests[1]_tests.cmake	45d6733bcd178ed8
